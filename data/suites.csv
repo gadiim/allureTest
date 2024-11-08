@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 08 14:42:15 UTC 2024","Fri Nov 08 14:42:15 UTC 2024","432","","Playlist App Functionality Test","","","","Add Track Using ""+"" Button",""
+"passed","Fri Nov 08 14:42:15 UTC 2024","Fri Nov 08 14:42:16 UTC 2024","947","","Playlist App Functionality Test","","","","Add Multiple Tracks",""
+"passed","Fri Nov 08 14:42:14 UTC 2024","Fri Nov 08 14:42:15 UTC 2024","976","","Playlist App Functionality Test","","","","Search Functionality",""
